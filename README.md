@@ -6,7 +6,7 @@ the working version of Slurm Simulator is based on old Slurm 17.11.
 
 
 
-[Documentation](docs/slurm_sim_manual.html slurm_sim_manual_v1.2.html)
+[Documentation](docs/slurm_sim_manual_v1.2.html)
 
 Slurm simulator repository:
 
